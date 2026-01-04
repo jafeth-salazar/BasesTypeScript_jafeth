@@ -36,5 +36,5 @@ const productosBasicos:Producto[]=[
 console.log(productosBasicos)
 console.log("holaa")
 console.log('Quiero ver si se actualiza')
-
+console.log('Prueba de git ')
 })()
